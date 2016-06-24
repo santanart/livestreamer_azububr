@@ -11,7 +11,6 @@ from livestreamer.plugin.api import http, validate
 from livestreamer.stream import HLSStream, HTTPStream
 
 
-REQUEST_KEY = "BCpkADawqM0EK2RNHjuaccclw9UloSZlamA8vmU4ZKtXm4pE6zs-vNcNWLpyEznFMEQjZlxNs9EkrXQfOPJpcTUwBOACs3aMJMG2rPnWFv_H_LlQyUtU5OC7tTxrlCjqzbrvBRkm7RIhN_8J"
 STREAM_NAMES = ["270p", "360p", "480p", "720p", "source"]
 STREAM_RATE = ["250", "500", "1000", "2400", "3300"]
 
